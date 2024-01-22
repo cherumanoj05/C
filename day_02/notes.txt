@@ -1,0 +1,15 @@
+a quick brown fox jumps over the lazy dog.
+
+Week wise course:
+
+ pointers and dynamic allocation, recursion
+ time & space complexity
+ OOPs
+ linked list
+ stacks and queues
+ trees and binary trees
+ binary search trees (BST)
+ priority queues, max heap, min heap & hash map
+ backtraking and basics of DP
+ DP (Dynamic Programming)
+ Graphs
