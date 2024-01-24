@@ -1,0 +1,20 @@
+Today I'm learning C 11 from percipio
+
+Basic data types:
+    int
+    char
+    float
+    double
+    void : no valueu data types
+
+Qualifiers
+    signed : int that can have both +ve and -ve values //
+    unsigned : 
+    long : double of the register
+    short : half of register
+
+Additional data types:
+    boolean data type 
+    need to include stdbool
+
+    test1? "true" : "false"
