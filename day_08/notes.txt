@@ -18,3 +18,6 @@ Additional data types:
     need to include stdbool
 
     test1? "true" : "false"
+
+Type conversion:
+    
